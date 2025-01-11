@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Ferig
 =====================================================================================================================================
 
-Software Developer
+Data Scientist
 ------------------
 
 A dedicated software developer with a passion for leveraging technology to solve real-world challenges. With a Bachelor's degree in Management Information Systems from Alexandria University, I've cultivated a solid foundation in information systems, data analytics, and software development.
