@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 ------------------
 
-A dedicated software developer with a passion for leveraging technology to solve real-world challenges. With a Bachelor's degree in Management Information Systems from Alexandria University, I've cultivated a solid foundation in information systems, data analytics, and software development.
+Data science graduate student at the University of Milano-Bicocca with a strong software development background. Skilled in building machine learning models, data analysis, and integrating predictive algorithms into web applications. Experienced in managing data pipelines and collaborating within multidisciplinary teams. Passionate about applying data-driven insights to solve problems and committed to continuous learning to stay updated with emerging technologies.
 
 My journey in software development began with an internship at Corporatica, where I gained hands-on experience in designing, coding, and testing software solutions. This experience laid the groundwork for my transition into a full-time role, where I continued to excel in building innovative applications and integrating machine learning models into web platforms. At Idea Square Company, I've further honed my skills in system and database management, contributing to the development of robust software solutions tailored to meet the needs of clients. Whether it's debugging code, optimizing performance, or collaborating with cross-functional teams, I thrive in dynamic environments where creativity and problem-solving are paramount. 
 
