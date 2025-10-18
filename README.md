@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Ferig
 =====================================================================================================================================
 
-Data Scientist
+Software Engineer & Data Scientist
 ------------------
 
 Data science graduate student at the University of Milano-Bicocca with a strong software development background. Skilled in building machine learning models, data analysis, and integrating predictive algorithms into web applications. Experienced in managing data pipelines and collaborating within multidisciplinary teams. Passionate about applying data-driven insights to solve problems and committed to continuous learning to stay updated with emerging technologies.
